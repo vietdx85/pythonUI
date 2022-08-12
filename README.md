@@ -1,1 +1,1 @@
-# pythonUI
+export DISPLAY=:0
